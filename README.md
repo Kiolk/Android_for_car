@@ -2,12 +2,12 @@
 
 It is a repository where I store useful information about android automotive and android auto. You can contribute it add other interesting information about this topic, just create PR.
 
-
 ## 🦮 Guidelines
+
 - [Design for Driving](https://developers.google.com/cars/design)
 Discover design guidelines for creating Android Auto and Android Automotive OS apps and designing in-vehicle infotainment systems.
 - [Learn Car App Library fundamentals](https://developer.android.com/codelabs/car-app-library-fundamentals#0)
-In this codelab you learn how to build distraction-optimized apps for Android Auto and Android Automotive OS using the Android for Cars App Library. 
+In this codelab you learn how to build distraction-optimized apps for Android Auto and Android Automotive OS using the Android for Cars App Library.
 - [Build media apps for cars](https://developer.android.com/training/cars/media)
 This guide describes the required components of a MediaBrowserService and MediaSession that your app needs in order to work on Android Auto or Android Automotive OS. After you have completed the core media infrastructure, you can add support for Android Auto and add support for Android Automotive OS to your media app.
 
@@ -53,6 +53,8 @@ Learn about the new features that have recently been added to the Car App Librar
 This project primary written how mobile aplication, but user interface adopted for running with android automative.
 - [Universal Android Music Player Sample](https://github.com/android/uamp)
 The repository contains example of audio media players that were adopted for different platforms. Audio media player adopted for Android Auto and Android Automotive
+- [Knightec Parking application](https://github.com/daresaydigital/knightecParking)
+Simple application that designed for using for Android Auto and Android Automotive OS. It use Android Car App Library  for create UI.
 
 ## 🌎 Community
 
